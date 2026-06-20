@@ -3,34 +3,24 @@
 A personal engineering knowledge base and interview readiness system.
 
 ## Goals
-
 - Become interview-ready by July 2026
-- Deepen understanding of production technologies
-- Build reusable engineering notes
-- Track DSA progress
-- Prepare system design and behavioral stories
+- Convert production experience into interview-ready knowledge
+- Build architecture thinking
 - Build AI/MCP expertise
+- Prepare for Senior Engineer, Platform Engineer and future Architect roles
 
-## Repository Structure
+## Core Principles
 
-01-DSA/
-02-Java/
-03-Spring/
-04-Kafka/
-05-Kubernetes/
-06-React/
-07-AI/
-08-SystemDesign/
-09-Behavioral/
-10-Applications/
-
-## Daily Rule
-
-- Solve 1 DSA problem
-- Create 1 engineering note
+1. Work becomes preparation.
+2. Track outputs, not hours.
+3. 1 DSA problem + 1 engineering note daily.
+4. Learn decisions, not just technologies.
+5. Connect every topic to real GAP experience.
+6. Think in tradeoffs.
+7. No note = no learning.
 
 ## Weekly Rule
 
-- Create 1 master note
-- Review progress
-- Update applications tracker
+- 1 Master Note
+- 1 Weekly Review
+- Update Applications Tracker
